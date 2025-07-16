@@ -1,6 +1,6 @@
 
 <p align="center">
-  Hi there 👋
+  <font size="6"> Hi there 👋 </font>font
 </p>
 
 
