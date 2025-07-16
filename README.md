@@ -1,6 +1,6 @@
 
 <p align="center">
-  <txt src="##Hi there 👋" width="300"/>
+  ##Hi there 👋
 </p>
 
 
