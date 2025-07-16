@@ -1,6 +1,8 @@
 ## Hi there 👋
-<img align="right" width="100" height="100" src=[![GitHub Streak](https://streak-stats.demolab.com/?user=cuistobal)](https://git.io/streak-stats)>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=cuistobal)](https://git.io/streak-stats)
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img width="100" height="100" src="https://streak-stats.demolab.com/?user=cuistobal" alt="GitHub Streak">
+</div>
+
 <!--
 **cuistobal/cuistobal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
