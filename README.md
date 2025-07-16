@@ -1,6 +1,6 @@
 ## Hi there 👋
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=cuistobal" alt="GitHub Streak" width="300"/>
+  <img src="https://streak-stats.demolab.com/?user=cuistobal" alt="GitHub Streak" width="500"/>
 </p>
 
 
