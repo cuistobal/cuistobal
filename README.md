@@ -1,6 +1,6 @@
 ## Hi there 👋
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img width="300" height="300" src="https://streak-stats.demolab.com/?user=cuistobal" alt="GitHub Streak">
+  <img width="500" height="500" src="https://streak-stats.demolab.com/?user=cuistobal" alt="GitHub Streak">
 </div>
 
 
