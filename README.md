@@ -1,5 +1,10 @@
 ## Hi there 👋
 <p align="center">
+  <txt src="Hi there 👋" width="300"/>
+</p>
+
+
+<p align="center">
   <img src="https://streak-stats.demolab.com/?user=cuistobal" alt="GitHub Streak" width="500"/>
 </p>
 
